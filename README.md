@@ -3,7 +3,11 @@
 ---------------------------------------------------
 **Description:**
 
-This Python script implements a simple command-line calculator for basic arithmetic operations. The user is prompted to enter the desired math operation (+, -, *, or /) along with two numbers. The program then calculates and displays the result.
+This Python script implements a simple command-line calculator for basic arithmetic operations.
+
+The user is prompted to enter the desired math operation (+, -, *, or /) along with two numbers.
+
+The program then calculates and displays the result.
 
 ---------------------------------------------------
 **Functionality:**
